@@ -55,9 +55,8 @@ NOTE: GIF FILE SIZE IS VERY LARGE (60+ MB).
 VIEWING THE YOUTUBE VIDEO INSTEAD IS RECOMMENDED.
 The GIF and Video are identical. See Video link below...
 ```
-Video: http://youtu.be/pzkrRNaizEM
 
-GIF: [x.tejen.net/bqn](http://x.tejen.net/bqn)
+GIF: [https://i.imgur.com/9EinvWg.png](https://i.imgur.com/9EinvWg.png)
 
 
 <sup>**GitHub typically clones remote images to GitHub Camo servers for your security, a process which fails for large-filesize images.**</sup>
